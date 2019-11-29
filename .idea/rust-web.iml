@@ -52,8 +52,8 @@
       <excludeFolder url="file://$MODULE_DIR$/work/movie\target" />
       <excludeFolder url="file://$MODULE_DIR$/work/src/auth\target" />
       <excludeFolder url="file://$MODULE_DIR$/work/src/testa\target" />
+      <excludeFolder url="file://$MODULE_DIR$/work/target" />
       <excludeFolder url="file://$MODULE_DIR$/work/testa/target" />
-      <excludeFolder url="file://$MODULE_DIR$/work\target" />
       <excludeFolder url="file://$MODULE_DIR$/../rust-web\target" />
     </content>
     <orderEntry type="inheritedJdk" />
