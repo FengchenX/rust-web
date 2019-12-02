@@ -1,65 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="PYTHON_MODULE" version="4">
+<module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../rust-web\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../rust-web\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../rust-web\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/util/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/util\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/util\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/util\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/service/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/service\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/service\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/service\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/service\src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/common/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/common\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/common\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/common\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/auth/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/auth\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/auth\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/auth\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/testa/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/testa\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/testa\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/testa\benches" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/work/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/auth/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/auth\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/auth\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/auth\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/testa/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/testa\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/testa\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/src/testa\benches" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/movie/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/movie\examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/work/movie\tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/work/movie\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/common\target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/service\target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/util\target" />
-      <excludeFolder url="file://$MODULE_DIR$/target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/auth/target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/auth\target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/movie\target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/src/auth\target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/src/testa\target" />
+      <sourceFolder url="file://$MODULE_DIR$/work/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/work/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/work/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/work/target" />
-      <excludeFolder url="file://$MODULE_DIR$/work/testa/target" />
-      <excludeFolder url="file://$MODULE_DIR$/../rust-web\target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
   </component>
 </module>
